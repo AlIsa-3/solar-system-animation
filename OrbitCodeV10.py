@@ -33,7 +33,7 @@ Mars_e = 1 #+ 0.094
 Jupiter_e = 1 #+ 0.049
 Mercury_e = 1 #+ 0.206
 
-#ArbitraryDist
+#ArbitraryVelocities
 EarthOrbVel_e = 149 * ScaleFactor * Earth_e #Prior Value: 149
 VenusOrbVel_e = 107 * ScaleFactor * Venus_e #Prior Value: 107
 MarsOrbVel_e = 227 * ScaleFactor * Mars_e #Prior Value: 227
